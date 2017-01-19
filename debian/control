@@ -2,7 +2,7 @@ Source: gwrite
 Section: editors
 Priority: optional
 Maintainer: Aron Xu <happyaron.xu@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~), python, python-support, python-setuptools, python-distutils-extra
+Build-Depends: debhelper (>= 7.0.50~), python, python-setuptools, python-distutils-extra
 Standards-Version: 3.9.1
 Homepage: http://code.google.com/p/gwrite
 
